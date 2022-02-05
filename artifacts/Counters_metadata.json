@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.7.5+commit.eb77ed08"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"GBAERC20Token_flat.sol": "Counters"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"GBAERC20Token_flat.sol": {
+			"keccak256": "0xe8ee150d630f7718bc0a07564f00c1c33f04f8cefe915c100019b95f3da65725",
+			"urls": [
+				"bzz-raw://1f081ae43180ce7567a8b876935894704dca907e2401133a04d5affd7f3a6d03",
+				"dweb:/ipfs/Qma1TATdTkRBykY9AwEjH9Y7Ji8p1qt5EfGp8uqdjMZAZd"
+			]
+		}
+	},
+	"version": 1
+}
